@@ -33,7 +33,6 @@ body {
   display: flex;
   flex-direction: column;
   gap: 16px;
-  flex: 1;
 }
 
 .card-item {
@@ -42,6 +41,7 @@ body {
   gap: 16px;
   display: flex;
   flex-direction: column;
+  flex: 1;
 }
 
 .card-item svg {
